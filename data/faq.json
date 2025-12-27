@@ -1,0 +1,38 @@
+{
+  "es": [
+    {
+      "question": "¿Es normal tener náuseas en el primer trimestre?",
+      "answer": "Las náuseas y vómitos suelen ser frecuentes en los primeros meses de embarazo. Sin embargo, si no puedes comer ni tomar líquidos, o notas que te desmayas o te mareas mucho, es importante que vayas a un centro de salud para que te evalúen."
+    },
+    {
+      "question": "¿Puedo hacer ejercicio durante el embarazo?",
+      "answer": "En muchos embarazos, el movimiento suave y el ejercicio ligero pueden ayudar a sentirte mejor. Actividades como caminar despacio o estiramientos suaves pueden ser buenas, siempre que no tengas indicaciones en contra de tu profesional de salud. Si sientes dolor, mareos o sangrado, debes detenerte y acudir a un centro de salud."
+    },
+    {
+      "question": "Me siento muy preocupada y con miedo.",
+      "answer": "Es comprensible sentir miedo o preocupación en el embarazo. Puedes intentar hablar con alguien de confianza, respirar despacio y buscar espacios tranquilos. También es importante compartir cómo te sientes con una profesional o un profesional de salud para que te brinde más apoyo."
+    }
+  ],
+  "qu": [
+    {
+      "question": "Qallariyniykapi ashnayki normalchu?",
+      "answer": "Aswanta ashnay kay embrazopi ñawpaq killa-kunapiqa sapallayá rikuykuchkan. Ichapas mana mikuyta, upyata atinki, utaqmi achka muyukuyniyki, qasichiykita utaq ruphayta tiyanqa, chayqa aswan allin hamuq hampikamayuq wasiman risqayki."
+    },
+    {
+      "question": "Embrazopi puriyta atinichu?",
+      "answer": "Aswan runakunapaq, embrazopi kunkaylla puriyqa, aslla ruk'aykunaqa allin kanmi. Qallariypi doctorniyta tapuy, manam ama llull'aychu. Sichus purispa nanay, muspay, yawarnin utaq mana allin kayta rikunki, chayqa ama qhipaman churaychu, hampikamayuq wasiman rinayki."
+    }
+  ],
+  "shp": [
+    {
+      "question": "¿Rari maiti bake embarazobo jakonma?",
+      "answer": "Jaskaraon bake embarazobo rari maiti jakon jaskaraon shinanbo nete jabaste. Ikanbires ira nete wesna ainban, rabe jakon shinanbo centro de salud rabi o hospital rabi jawe jakanai."
+    },
+    {
+      "question": "¿Jakonma non bake jawen non rabi wesnati rabi wesnan jakon?",
+      "answer": "Jakon isi shintabo, non bake nete suavemente jawen rabi wesnati ani, jato oraonbo jakon. Jaskaraon kenai, non doctorbo o enfermerabo rabi tapuikima ja, ja ainban jakon."
+    }
+  ]
+}
+
+

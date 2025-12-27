@@ -1,0 +1,71 @@
+{
+  "es": {
+    "keywords": [
+      "sangrado",
+      "sangrando",
+      "sangre",
+      "dolor muy fuerte",
+      "dolor fuerte",
+      "dolor intenso",
+      "fiebre",
+      "fiebres",
+      "calentura",
+      "no siento al bebé",
+      "no siento al bebe",
+      "no siento que se mueve",
+      "convulsión",
+      "convulsiones",
+      "ataque",
+      "pérdida de líquido",
+      "perdida de liquido",
+      "líquido transparente",
+      "liquido transparente",
+      "dificultad para respirar",
+      "me desmayé",
+      "me desmaye",
+      "desmayo"
+    ],
+    "message": "Por lo que cuentas, podría tratarse de una *señal de alerta* en el embarazo. No puedo darte un diagnóstico, pero es muy importante que acudas *de inmediato* a un centro de salud u hospital para que te evalúen presencialmente."
+  },
+  "qu": {
+    "keywords": [
+      "yawarnin",
+      "yawarniy",
+      "sangrado",
+      "nanay sinchi",
+      "nanay llakikuy",
+      "nanay fuerte",
+      "ruphay",
+      "ruphayniy",
+      "fiebre",
+      "mana wawata uyariy",
+      "mana wawawan puriyta uyariy",
+      "manam wawata uyarisqanchu",
+      "q'omer yaku",
+      "yanqha yaku",
+      "mana aswan samay"
+    ],
+    "message": "Rimakuykita uyarispa, embrazopi *peligro* kayta rikuchikuchkan hina. Manam diagnósticota churinichu, ichaqa aswan allinpaqmi utqaylla hampikamayuq wasiman utaq hospitalman risqayki."
+  },
+  "shp": {
+    "keywords": [
+      "yawar",
+      "yawar íbo",
+      "yawar ibo",
+      "sangrado",
+      "wesna jaskaraon",
+      "wesna jaskaman",
+      "jaskaraon wesna",
+      "fiebre",
+      "calentura",
+      "non bake jato nete ikin mana onanti",
+      "mana onanti bake iki",
+      "yara wesna",
+      "bewan yora",
+      "jato sama jenki"
+    ],
+    "message": "Jaskaraon ninkibo iki bake embarazobo *peligro* shinanti jaskaraon. Manan diagnostico jakon jaskaraon iki bain. Jawen ja, nete centro de salud rabi o hospital rabi utqaylla jakanai."
+  }
+}
+
+

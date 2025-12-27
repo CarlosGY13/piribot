@@ -1,0 +1,1 @@
+"""Piribot Telegram bot module."""
