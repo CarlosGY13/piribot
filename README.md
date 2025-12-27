@@ -1,4 +1,4 @@
-### Piribot – Companion chatbot for pregnant women
+## Piribot – Companion chatbot for pregnant women
 
 Piribot is a conversational Telegram chatbot that provides **general information**, **basic guidance**, and **emotional support** for pregnant women.  
 It is designed to work in **Spanish**, **Quechua**, and **Shipibo-Konibo**, with a respectful, simple, and intercultural tone.
