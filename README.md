@@ -70,7 +70,7 @@ Create and activate a virtual environment (recommended):
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate  # En Windows: .venv\Scripts\activate
+source .venv/bin/activate
 ```
 
 Install dependencies:
@@ -90,8 +90,6 @@ Copy it to `.env` and fill in the values:
 cp .env.example .env
 ```
 
-Edit `.env` with your favorite editor:
-
 ```env
 TELEGRAM_BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN_HERE
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
@@ -100,9 +98,6 @@ GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
 # es = Spanish, qu = Quechua, shp = Shipibo-Konibo
 PIRIBOT_DEFAULT_LANGUAGE=es
 ```
-
-> In production it is recommended to set environment variables directly in the runtime
-> (without a `.env` file), following security best practices.
 
 ---
 
